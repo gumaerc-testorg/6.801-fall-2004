@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bff19627-4f2d-85f8-d9d0-af67d7c1fca1
 resourcetype: Document
 title: tsaiexplain.pdf
 uid: 5d74a1dd-1b06-a858-ab5c-2643684ef7ab

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bff19627-4f2d-85f8-d9d0-af67d7c1fca1
 resourcetype: Document
 title: harmful.pdf
 uid: 64b4c013-4104-3f4a-d675-6172dc3fb652

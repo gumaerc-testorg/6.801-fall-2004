@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bff19627-4f2d-85f8-d9d0-af67d7c1fca1
 resourcetype: Document
 title: warning.pdf
 uid: 3325f1bc-e8b0-9be8-68ee-711f7e1aaf51

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bff19627-4f2d-85f8-d9d0-af67d7c1fca1
 resourcetype: Document
 title: ape_continuous.pdf
 uid: ba615cc3-59aa-c5f1-5128-82d47ae0a214

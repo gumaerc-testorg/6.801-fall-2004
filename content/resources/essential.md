@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bff19627-4f2d-85f8-d9d0-af67d7c1fca1
 resourcetype: Document
 title: essential.pdf
 uid: 1d50627b-85d0-5ec8-67bc-c8a309d2d8c4
