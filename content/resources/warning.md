@@ -5,6 +5,7 @@ file: /courses/6-801-machine-vision-fall-2004/3325f1bce8b09be868ee711f7e1aaf51_w
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: warning.pdf
 uid: 3325f1bc-e8b0-9be8-68ee-711f7e1aaf51
 ---
 Assigned reading on Analog VLSI for Machine Vision.
-
