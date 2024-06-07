@@ -2,6 +2,7 @@
 content_type: resource
 description: Assigned reading on Analog VLSI for Machine Vision.
 file: /courses/6-801-machine-vision-fall-2004/3325f1bce8b09be868ee711f7e1aaf51_warning.pdf
+file_size: 69995
 file_type: application/pdf
 learning_resource_types:
 - Readings

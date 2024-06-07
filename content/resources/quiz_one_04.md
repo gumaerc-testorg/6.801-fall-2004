@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the Quiz 1 problems.
 file: /courses/6-801-machine-vision-fall-2004/a5ed4e796a062397316447b0e63bfbc9_quiz_one_04.pdf
+file_size: 123037
 file_type: application/pdf
 learning_resource_types:
 - Exams

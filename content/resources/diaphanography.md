@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains a description of the problem, motivation, previous
   work and the difficulties encountered in 3-D Image Reconstruction in Optical Tomography.
 file: /courses/6-801-machine-vision-fall-2004/3bc9d7b59d159b8acfc1c75f937558ee_diaphanography.pdf
+file_size: 88310
 file_type: application/pdf
 learning_resource_types:
 - Readings
