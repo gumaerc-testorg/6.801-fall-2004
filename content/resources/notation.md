@@ -2,6 +2,7 @@
 content_type: resource
 description: Assigned reading.
 file: /courses/6-801-machine-vision-fall-2004/08967a8a9fe8af8d04da044023796f3f_notation.pdf
+file_size: 272873
 file_type: application/pdf
 learning_resource_types:
 - Readings
