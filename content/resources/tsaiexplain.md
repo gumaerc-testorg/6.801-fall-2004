@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assigned reading on Camera Calibration.
-file: /courses/6-801-machine-vision-fall-2004/5d74a1dd1b06a858ab5c2643684ef7ab_tsaiexplain.pdf
+file: /ol-ocw-studio-app/courses/6-801-machine-vision-fall-2004/5d74a1dd1b06a858ab5c2643684ef7ab_tsaiexplain.pdf
 file_size: 214811
 file_type: application/pdf
 learning_resource_types:
