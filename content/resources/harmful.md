@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assigned reading.
-file: /ol-ocw-studio-app/courses/6-801-machine-vision-fall-2004/64b4c01341043f4ad6756172dc3fb652_harmful.pdf
+file: /courses/6-801-machine-vision-fall-2004/64b4c01341043f4ad6756172dc3fb652_harmful.pdf
 file_size: 207416
 file_type: application/pdf
 learning_resource_types:
