@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the Quiz 2 problems.
-file: /ol-ocw-studio-app/courses/6-801-machine-vision-fall-2004/4abfdbff902fa0c41c86e195bed56912_quiz_two_04.pdf
+file: /courses/6-801-machine-vision-fall-2004/4abfdbff902fa0c41c86e195bed56912_quiz_two_04.pdf
 file_size: 127322
 file_type: application/pdf
 learning_resource_types:
