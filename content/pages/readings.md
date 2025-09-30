@@ -10,7 +10,7 @@ uid: bff19627-4f2d-85f8-d9d0-af67d7c1fca1
 ---
 ## Textbook
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/robot-vision) Horn, Berthold K. P. *Robot Vision*. Cambridge, MA: [MIT Press](https://mitpress.mit.edu/9780262537377/robot-vision/)/McGraw-Hill, March 1986. ISBN: 0262081598.
+{{% resource_link "7eaed582-7d18-4398-b75f-7dba6946f216" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Horn, Berthold K. P. *Robot Vision*. Cambridge, MA: {{% resource_link "cd53f04a-77ac-4c64-8222-79e78740ceb9" "MIT Press" %}}/McGraw-Hill, March 1986. ISBN: 0262081598.
 
 ## Shape From Shading
 
@@ -18,7 +18,7 @@ Horn, Berthold K. P., Richard S. Szeliski, and Alan L. Yuille. "Impossible Shad
 
 ## Photogrammetry
 
-Horn, Berthold K. P. "Closed-Form Solution of Absolute Orientation Using Unit Quaternions." *Journal of the Optical Society of America A* 4, no. 4 (April 1987): 629-642. ([PDF - 1.6 MB](http://people.csail.mit.edu/bkph/papers/Absolute_Orientation.pdf))
+Horn, Berthold K. P. "Closed-Form Solution of Absolute Orientation Using Unit Quaternions." *Journal of the Optical Society of America A* 4, no. 4 (April 1987): 629-642. ({{% resource_link "26fd13b3-2b55-4451-81af-d0699467e819" "PDF - 1.6 MB" %}})
 
 Horn, Berthold K. P. "Relative Orientation Revisited." *Journal of the Optical Society of America A* 8 (October 1991): 1630–1638.
 
