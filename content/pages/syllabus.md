@@ -13,7 +13,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 ## Textbook
 
-![Buy at MIT Press](/images/mp_logo.gif) Horn, Berthold K. P. [_Robot Vision_](https://mitpress.mit.edu/books/robot-vision). Cambridge, MA: [MIT Press](https://mitpress.mit.edu/) /McGraw-Hill, March 1986. ISBN: 0262081598.
+![Buy at MIT Press](/images/mp_logo.gif) Horn, Berthold K. P. {{% resource_link "7eaed582-7d18-4398-b75f-7dba6946f216" "_Robot Vision_" %}}. Cambridge, MA: {{% resource_link "e2ffb030-b283-4ad4-ba9d-9f72ef10af3a" "MIT Press" %}} /McGraw-Hill, March 1986. ISBN: 0262081598.
 
 ## Material We Cover This Term
 
